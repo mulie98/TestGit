@@ -1,1 +1,2 @@
 This my first text file
+it-edit <begå hash> Detta kommer att släppa dig vid det engagemang du vill redigera.
